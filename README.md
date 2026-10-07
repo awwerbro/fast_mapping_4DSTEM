@@ -1,6 +1,6 @@
 # fast_mapping_4DSTEM
 
-This repository contains Jupyter notebooks and datasets for fast mapping and analysis of 4D-STEM (Four-Dimensional Scanning Transmission Electron Microscopy) data for the manuscript "Fast 4D-STEM-based phase mapping for amorphous and mixed materials" by Andreas Werbrouck, Nikhila C. Panaramana, Xiaoqing He and Matthias J. Young. The manuscript is currently under revision. 
+This repository contains Jupyter notebooks and datasets for fast mapping and analysis of 4D-STEM (Four-Dimensional Scanning Transmission Electron Microscopy) data for the manuscript "Fast 4D-STEM-based phase mapping for amorphous and mixed materials" by Andreas Werbrouck, Nikhila C. Panaramana, Xiaoqing He and Matthias J. Young. The manuscript is available [on ArXiv](https://arxiv.org/abs/2507.17068) and published in [Microscopy and Microanalysis](https://doi.org/10.1093/mam/ozag079). 
 
 ## Structure
 
